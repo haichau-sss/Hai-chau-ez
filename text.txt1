@@ -3,10 +3,10 @@ loadstring(game:HttpGet(("https://raw.githubusercontent.com/daucobonhi/Ui-Redz-V
        local Window = MakeWindow({
          Hub = {
          Title = "hai chau 69",
-         Animation = "Youtube: TBoy Roblox"
+         Animation = "Youtube: con cặc huynh lộc"
          },
         Key = {
-        KeySystem = false,
+        KeySystem = trua,
         Title = "Key System",
         Description = "",
         KeyLink = "",
@@ -21,7 +21,7 @@ loadstring(game:HttpGet(("https://raw.githubusercontent.com/daucobonhi/Ui-Redz-V
   })
 
        MinimizeButton({
-       Image = "http://www.roblox.com/asset/?id=83190276951914",
+       Image = "content://ru.zdevs.zarchiver.external/storage/emulated/0/DCIM/Camera/IMG_20250423_125304_416.jpg",
        Size = {60, 60},
        Color = Color3.fromRGB(10, 10, 10),
        Corner = true,
